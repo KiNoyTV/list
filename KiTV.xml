@@ -1,36 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
   <channel id="tvOne.id">
-	<display-name>tvOne</display-name>
-	<icon src="https://i.imgur.com/LCzQYdy.png"/>
-	<url>https://transvision.co.id</url></channel>
+    <display-name>tvOne</display-name>
+    <icon src="https://i.imgur.com/LCzQYdy.png"/>
+    <url>https://transvision.co.id</url></channel>
   </channel>
   <channel id="Indosiar.id">
-	<display-name>Indosiar</display-name>
-	<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/512px-Indosiar_2015.svg.png"/>
-	<url>https://transvision.co.id</url>
+    <display-name>Indosiar</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/512px-Indosiar_2015.svg.png"/>
+    <url>https://transvision.co.id</url>
   </channel>
   <channel id="CNNIndonesia.id">
-	<display-name>CNN Indonesia</display-name>
-	<icon src="https://i.imgur.com/l0JyOrm.png"/>
-	<url>https://transvision.co.id</url>
+    <display-name>CNN Indonesia</display-name>
+    <icon src="https://i.imgur.com/l0JyOrm.png"/>
+    <url>https://transvision.co.id</url>
   </channel>
   <channel id="SPOTV.kr">
-	<display-name>SPOTV</display-name>
-	<icon src="https://i.imgur.com/HaoVsm5.png"/>
-	<url>https://mncvision.id</url>
+    <display-name>SPOTV</display-name>
+    <icon src="https://i.imgur.com/HaoVsm5.png"/>
+    <url>https://mncvision.id</url>
   </channel>
   <programme start="20230212170000 +0000" stop="20230212183000 +0000" channel="tvOne.id">
-	<title lang="id">Program Pengganti</title>
-	<desc lang="id">TV ONE menampilkan program gaya hidup dan hiburan yang berkualitas serta memiliki keunikan dan kemampuan yang baik dari set mereka demi menayangkan program-program terbaik.</desc>
+    <title lang="id">Program Pengganti</title>
+    <desc lang="id">TV ONE menampilkan program gaya hidup dan hiburan yang berkualitas serta memiliki keunikan dan kemampuan yang baik dari set mereka demi menayangkan program-program terbaik.</desc>
   </programme>
   <programme start="20230212183000 +0000" stop="20230212190000 +0000" channel="tvOne.id">
-	<title lang="id">AB Shop</title>
-	<desc lang="id">AB Shop merupakan program home shopping yang menawarkan kegiatan berbelanja bagi Anda yang tidak memiliki banyak waktu untuk keluar rumah. Siapkan telepon Anda dan pilih barang-barang yang Anda perlukan sekarang juga di AB Shop.</desc>
+    <title lang="id">AB Shop</title>
+    <desc lang="id">AB Shop merupakan program home shopping yang menawarkan kegiatan berbelanja bagi Anda yang tidak memiliki banyak waktu untuk keluar rumah. Siapkan telepon Anda dan pilih barang-barang yang Anda perlukan sekarang juga di AB Shop.</desc>
   </programme>
   <programme start="20230212190000 +0000" stop="20230212200000 +0000" channel="tvOne.id">
-	<title lang="id">Apa Kabar Indonesia Malam</title>
-	<desc lang="id">Talkshow yang mengupas berita yang sedang menjadi Headline atau Isue besar. Program dialog ini dibuat lebih berisi dengan narasumber yang kompeten di bidangnya.</desc>
+    <title lang="id">Apa Kabar Indonesia Malam</title>
+    <desc lang="id">Talkshow yang mengupas berita yang sedang menjadi Headline atau Isue besar. Program dialog ini dibuat lebih berisi dengan narasumber yang kompeten di bidangnya.</desc>
   </programme>
   <programme start="20230212200000 +0000" stop="20230212203000 +0000" channel="tvOne.id">
 	<title lang="id">Kabar Utama</title>
@@ -49,24 +49,24 @@
 	<desc lang="id">Kabar pagi menghadirkan berbagai berita dari dunia politik, ekonomi, hukum, sosial dan budaya yang terjadi di hari sebelumnya.</desc>
   </programme>
   <programme start="20230212230000 +0000" stop="20230212233000 +0000" channel="tvOne.id">
-	<title lang="id">Kabar Arena Pagi</title>
-	<desc lang="id">Kabar Arena merupakan program berita olahraga yang mengusung informasi terbaru seputar olahraga baik dalam dan luar negeri, serta mengedepankan analisa terhadap event olahraga dunia yang akan berlangsung.</desc>
+    <title lang="id">Kabar Arena Pagi</title>
+    <desc lang="id">Kabar Arena merupakan program berita olahraga yang mengusung informasi terbaru seputar olahraga baik dalam dan luar negeri, serta mengedepankan analisa terhadap event olahraga dunia yang akan berlangsung.</desc>
   </programme>
   <programme start="20230212233000 +0000" stop="20230213010000 +0000" channel="tvOne.id">
-	<title lang="id">Apa Kabar Indonesia Pagi Spesial HUT ke-15 tvOne</title>
-	<desc lang="id">Apa Kabar Indonesia Pagi adalah program yang menggabungkan konsep berita dan talk show dalam sebuah acara, menyajikan berbagai berita dari dunia politik, ekonomi, hukum, sosial dan budaya.</desc>
+    <title lang="id">Apa Kabar Indonesia Pagi Spesial HUT ke-15 tvOne</title>
+    <desc lang="id">Apa Kabar Indonesia Pagi adalah program yang menggabungkan konsep berita dan talk show dalam sebuah acara, menyajikan berbagai berita dari dunia politik, ekonomi, hukum, sosial dan budaya.</desc>
   </programme>
   <programme start="20230213010000 +0000" stop="20230213040000 +0000" channel="tvOne.id">
-	<title lang="id">Breaking News Putusan Sidang Sambo</title>
-	<desc lang="id">Liputan khusus jalan nya persidangan dari kasus pembunuhan berencana yang dilakukan oleh Sambo kepada anak buah nya Brigadir Yosua.</desc>
+    <title lang="id">Breaking News Putusan Sidang Sambo</title>
+    <desc lang="id">Liputan khusus jalan nya persidangan dari kasus pembunuhan berencana yang dilakukan oleh Sambo kepada anak buah nya Brigadir Yosua.</desc>
   </programme>
   <programme start="20230213040000 +0000" stop="20230213060000 +0000" channel="tvOne.id">
-	<title lang="id">Kabar Siang</title>
-	<desc lang="id">Kabar Siang merupakan program buletin berita yang mengedepankan berita-berita terkini atau sedang terjadi hari ini. Disampaikan baik melalui paket berita maupun laporan langsung dari lokasi kejadian.</desc>
+    <title lang="id">Kabar Siang</title>
+    <desc lang="id">Kabar Siang merupakan program buletin berita yang mengedepankan berita-berita terkini atau sedang terjadi hari ini. Disampaikan baik melalui paket berita maupun laporan langsung dari lokasi kejadian.</desc>
   </programme>
   <programme start="20230213060000 +0000" stop="20230213070000 +0000" channel="tvOne.id">
-	<title lang="id">Damai Indonesiaku</title>
-	<desc lang="id">Program ber-genre tablik akbar ditampilkan dari masjid, sekolah, mall dan tempat-tempat keramaian, yang membahas isu-isu hangat dan diselingi dengan pertunjukan musik.</desc>
+    <title lang="id">Damai Indonesiaku</title>
+    <desc lang="id">Program ber-genre tablik akbar ditampilkan dari masjid, sekolah, mall dan tempat-tempat keramaian, yang membahas isu-isu hangat dan diselingi dengan pertunjukan musik.</desc>
   </programme>
   <programme start="20230213070000 +0000" stop="20230213073000 +0000" channel="tvOne.id">
 	<title lang="id">Nusantara Terkini</title>
@@ -165,16 +165,16 @@
 	<desc lang="id">Kabar Hari Ini adalah program berita pilihan yang hadir setiap hari Senin hingga Jumat.</desc>
   </programme>
   <programme start="20230212183000 +0000" stop="20230212203000 +0000" channel="Indosiar.id">
-	<title lang="id">Fearless</title>
-	<desc lang="id">Program film Asia yang menghadirkan kisah menarik dan menyentuh untuk diikuti yang akan menemani malam Anda.</desc>
+    <title lang="id">Fearless</title>
+    <desc lang="id">Program film Asia yang menghadirkan kisah menarik dan menyentuh untuk diikuti yang akan menemani malam Anda.</desc>
   </programme>
   <programme start="20230212203000 +0000" stop="20230212210000 +0000" channel="Indosiar.id">
-	<title lang="id">Patroli Malam</title>
-	<desc lang="id">Program berita kriminal dan investigasi yang menyajikan informasi seputar tindak kejahatan, orang hilang hingga bencana alam.</desc>
+    <title lang="id">Patroli Malam</title>
+    <desc lang="id">Program berita kriminal dan investigasi yang menyajikan informasi seputar tindak kejahatan, orang hilang hingga bencana alam.</desc>
   </programme>
   <programme start="20230212210000 +0000" stop="20230212213000 +0000" channel="Indosiar.id">
-	<title lang="id">Fokus Malam</title>
-	<desc lang="id">Program berita yang menyuguhkan informasi terkini dari dalam dan luar negeri dari dunia politik, hukum, kriminal dan lainnya</desc>
+    <title lang="id">Fokus Malam</title>
+    <desc lang="id">Program berita yang menyuguhkan informasi terkini dari dalam dan luar negeri dari dunia politik, hukum, kriminal dan lainnya</desc>
   </programme>
   <programme start="20230212213000 +0000" stop="20230212230000 +0000" channel="Indosiar.id">
 	<title lang="id">Fokus Pagi - Live</title>
@@ -280,15 +280,13 @@
 	<title lang="id">D&apos;Koplo - Live</title>
 	<desc lang="id">Program pencarian bakat terbaru yang menggabungkan antara talent search dan variety show. Jangan lewatkan D&apos;Koplo!</desc>
   </programme>
-
-
   <programme start="20230212170000 +0000" stop="20230212173000 +0000" channel="CNNIndonesia.id">
-	<title lang="id">Ngopi Sehat</title>
-	<desc lang="id">Menghadirkan program-program terbaik spesial untuk Anda.</desc>
+    <title lang="id">Ngopi Sehat</title>
+    <desc lang="id">Menghadirkan program-program terbaik spesial untuk Anda.</desc>
   </programme>
   <programme start="20230212173000 +0000" stop="20230212194500 +0000" channel="CNNIndonesia.id">
-	<title lang="id">Prime News</title>
-	<desc lang="id">CNN Indonesia Prime News menghadirkan topik pilihan seputar dunia politik, ekonomi, atau hal lain yang tengah menjadi sorotan utama. Tayangan dikemas dalam dialog yang lengkap bersama narasumber kompeten.</desc>
+    <title lang="id">Prime News</title>
+    <desc lang="id">CNN Indonesia Prime News menghadirkan topik pilihan seputar dunia politik, ekonomi, atau hal lain yang tengah menjadi sorotan utama. Tayangan dikemas dalam dialog yang lengkap bersama narasumber kompeten.</desc>
   </programme>
   <programme start="20230212194500 +0000" stop="20230212203000 +0000" channel="CNNIndonesia.id">
 	<title lang="id">The World Tonight</title>
@@ -445,13 +443,13 @@
   </programme>
 
   <programme start="20230212180000 +0000" stop="20230212200000 +0000" channel="SPOTV.kr">
-	<title lang="en">Supercars C&apos;ship VALO HL</title>
+    <title lang="en">Supercars C&apos;ship VALO HL</title>
   </programme>
   <programme start="20230212200000 +0000" stop="20230212220000 +0000" channel="SPOTV.kr">
-	<title lang="en">2022 AMA Supercross C&apos;Ship HL</title>
+    <title lang="en">2022 AMA Supercross C&apos;Ship HL</title>
   </programme>
   <programme start="20230212220000 +0000" stop="20230212230000 +0000" channel="SPOTV.kr">
-	<title lang="en">2022/23 World Rugby Series HL</title>
+    <title lang="en">2022/23 World Rugby Series HL</title>
   </programme>
   <programme start="20230212230000 +0000" stop="20230212233000 +0000" channel="SPOTV.kr">
 	<title lang="en">Extreme E: Electric Odyssey</title>
